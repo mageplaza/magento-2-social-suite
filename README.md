@@ -87,6 +87,15 @@ Bring an attractive look to store site with Instagram photos via Instagram Feed.
 
 Especially, sorting function allows store admins to select the typical images to show out such as the pictures with the most likes, the most comments. 
 
+### Twitter Widget
+
+![Twitter Widget](https://i.imgur.com/xDCvNze.gifv)
+
+Social Suite also integrates Twitter Widget, one of the most popular social networks in the world, on the store site. This is a great way to connect customers using Twitter as their common social channel, and make the store site look more up-to-date and professional. 
+
+Twitter Widget supports various styles to embed Twitter on store site including Timeline and Tweets, so this brings the flexibility to store owners. Moreover, during shopping on store site, if Twitter users can interact with Tweets easily by clicking on Like or Share
+
+
 ### Share Cart
 
 ![Share Cart](https://i.imgur.com/L3PP8A7.png)
@@ -97,8 +106,11 @@ The share link after being clicked on will redirect the users to the identical c
 
 ## User Guides
 
+Mageplaza introduces the detailed user guides for each module in Social Suite Package. You can install and follow the below instructions to configure our modules easily: 
+
 - [Social Login](https://docs.mageplaza.com/social-login-m2/index.html)
 - [Social Share](https://docs.mageplaza.com/social-share/index.html)
 - [Facebook Plugin](https://docs.mageplaza.com/facebook-plugin/index.html)
 - [Instagram Feed](https://docs.mageplaza.com/instagram-feed/index.html)
+- [Twitter Widget](https://docs.mageplaza.com/twitter-widget/index.html)
 - [Share Cart](https://docs.mageplaza.com/share-cart/index.html)
