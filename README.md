@@ -5,10 +5,9 @@ Social Suite is the mixture extension for Magento 2 store to optimize the sales 
 
 ## 1. Documentation
 - [Installation guide](https://www.mageplaza.com/install-magento-2-extension/)
-- [User guide](https://docs.mageplaza.com/social-suite/index.html)
 - [Introduction page](http://www.mageplaza.com/magento-2-social-suite/)
 - [Contribute on Github](https://github.com/mageplaza/magento-2-social-suite)
-- [Get Suppor](https://github.com/mageplaza/magento-2-social-suite/issues)
+- [Get Support](https://github.com/mageplaza/magento-2-social-suite/issues)
 
 
 ## 2. FAQ
@@ -33,10 +32,52 @@ A: Yes, please check out our [Terms of Use](https://www.mageplaza.com/tos.html) 
 
 **Install via composer (recommend)**
 
-Run the following command in Magento 2 root folder:
+Run the following command in Magento 2 root folder to install:
+
+### Social Login
 
 ```
-composer require mageplaza/module-social-suite
+composer require mageplaza/module-social-login
+php bin/magento setup:upgrade
+php bin/magento setup:static-content:deploy
+```
+
+### Social Share
+
+```
+composer require mageplaza/module-social-share
+php bin/magento setup:upgrade
+php bin/magento setup:static-content:deploy
+```
+
+### Facebook Plugin
+
+```
+composer require mageplaza/module-facebook-plugin
+php bin/magento setup:upgrade
+php bin/magento setup:static-content:deploy
+```
+
+### Instagram Feed
+
+```
+composer require mageplaza/module-instagram-feed
+php bin/magento setup:upgrade
+php bin/magento setup:static-content:deploy
+```
+
+### Twitter Widget
+
+```
+composer require mageplaza/module-twitter-widget
+php bin/magento setup:upgrade
+php bin/magento setup:static-content:deploy
+```
+
+### Share Cart
+
+```
+composer require mageplaza/module-share-cart
 php bin/magento setup:upgrade
 php bin/magento setup:static-content:deploy
 ```
@@ -44,7 +85,7 @@ php bin/magento setup:static-content:deploy
 ## 4. Highlight Features
 
 
-### Social Login 
+### Simplify login process with social channels 
 
 ![Social Login](https://i.imgur.com/LWYFwfu.png)
 
@@ -62,7 +103,7 @@ Social Login is integrated to facilitate the login process of customers via soci
 - Yahoo Login
 
 
-### Social Share 
+### Share shopping experience on social networks 
 
 ![Social Share](https://i.imgur.com/C55W5Qn.png)
 
@@ -71,7 +112,7 @@ After customers login conveniently and go shopping, Social Share will support cu
 With one click, customers can share their favourite items quickly to friends. Moreover, this is a great way to promote store brand, reach out to many more potential customers and increase sales. 
 
  
-### Facebook Plugin 
+### Embed Facebook page on store site
 
 ![Facebook Plugin](https://i.imgur.com/QUI7bH8.png)
 
@@ -79,7 +120,7 @@ Embed Facebook ,the biggest social media site around, with more than two billion
 
 Adding tabs of store’s Facebook Page to store site with three options: Timeline, Event, Messages to show all the updates on Facebook and notify visitors about another shopping channel of store. Especially, Call to Action buttons are displayed to motivate customers to like, share and interact with Facebook page.  Besides, a shopper can leave a comment about a product via his Facebook account conveniently. 
 
-### Instagram Feed
+### Attract customers with Instagram images
 
 ![Instagram Feed](https://i.imgur.com/Quvfjx6.png)
 
@@ -87,7 +128,7 @@ Bring an attractive look to store site with Instagram photos via Instagram Feed.
 
 Especially, sorting function allows store admins to select the typical images to show out such as the pictures with the most likes, the most comments. 
 
-### Twitter Widget
+### Add Twitter Feed to store site
 
 ![Twitter Widget](https://i.imgur.com/xDCvNze.gif)
 
@@ -96,7 +137,7 @@ Social Suite also integrates Twitter Widget, one of the most popular social netw
 Twitter Widget supports various styles to embed Twitter on store site including Timeline and Tweets, so this brings the flexibility to store owners. Moreover, during shopping on store site, if Twitter users can interact with Tweets easily by clicking on Like or Share
 
 
-### Share Cart
+### Share cart with ease
 
 ![Share Cart](https://i.imgur.com/L3PP8A7.png)
 
