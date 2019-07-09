@@ -89,7 +89,7 @@ Especially, sorting function allows store admins to select the typical images to
 
 ### Twitter Widget
 
-![Twitter Widget](https://i.imgur.com/xDCvNze.gifv)
+![Twitter Widget](https://i.imgur.com/xDCvNze.gif)
 
 Social Suite also integrates Twitter Widget, one of the most popular social networks in the world, on the store site. This is a great way to connect customers using Twitter as their common social channel, and make the store site look more up-to-date and professional. 
 
@@ -104,7 +104,7 @@ Suggest a proper combination is easier than ever with Share Cart button! After p
 
 The share link after being clicked on will redirect the users to the identical cart with the same products and quantities. This helps shopping moment become time-saving and convenient. 
 
-## User Guides
+## 5. User Guides
 
 Mageplaza introduces the detailed user guides for each module in Social Suite Package. You can install and follow the below instructions to configure our modules easily: 
 
