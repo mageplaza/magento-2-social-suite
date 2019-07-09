@@ -1,4 +1,4 @@
-# Social Suite Magento Extensions
+# Social Suite - Bundle of Magento Extensions
 
 Social Suite is the mixture extension for Magento 2 store to optimize the sales effectiveness in social channels via the usage of social applications: **Social Login, Social Share, Facebook Plugin, Instagram, Twitter and Share Cart**. 
 
