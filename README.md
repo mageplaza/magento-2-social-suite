@@ -34,6 +34,16 @@ A: Yes, please check out our [Terms of Use](https://www.mageplaza.com/tos.html) 
 
 Run the following command in Magento 2 root folder to install:
 
+### All extensions in Social Suite at once
+
+```
+composer require mageplaza/module-social-suite 
+php bin/magento setup:upgrade
+php bin/magento setup:static-content:deploy
+```
+
+Followings are individual command to install each module in Social Suite
+
 ### Social Login
 
 ```
